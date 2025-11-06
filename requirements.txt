@@ -1,0 +1,32 @@
+# Core Python libraries
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Geospatial and mapping
+geopandas>=0.14.0
+shapely>=2.0.0
+folium>=0.15.0
+branca>=0.7.0
+h3>=3.7.6
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+altair>=5.2.0
+plotly>=5.22.0
+
+# Web app framework
+shiny>=0.8.0
+shinywidgets>=0.3.0
+
+# Audio (for pronunciation features)
+gTTS>=2.5.0
+
+# Utility and system
+asyncio
+pathlib
+datetime
+
+# Optional: if you use jupyter notebooks or testing
+# jupyterlab>=4.0.0
+# pytest>=7.0.0

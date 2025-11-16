@@ -1,6 +1,8 @@
 
 ### 🧠 English Toolkit – Interactive Vocabulary Learning App
 
+![](Images/Overview.png)
+
 **English Toolkit** is an interactive web application designed to help users expand and reinforce their English vocabulary through an engaging, structured interface. The app allows learners to practice new words, review previously learned vocabulary, and explore words across different categories and difficulty levels (A1–C2).
 
 Users can choose between multiple learning modes — *New Words*, *Review*, or *All Words* — and filter their study list by category (e.g., Business, Social, Health) and CEFR level. They can also specify the number of words to review in each session or upload their own CSV file to personalize the vocabulary set.
